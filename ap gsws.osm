@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-12-17T12:27:00Z" areas="2025-12-17T04:20:50Z"/>
+
+  <node id="4670946472" lat="17.3764921" lon="82.5323742" version="3" timestamp="2025-12-17T06:26:03Z" changeset="176034708" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="5309974447" lat="16.3820825" lon="80.4342141" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="addr:housenumber" v="5-66-50"/>
+    <tag k="addr:street" v="Lam"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+    <tag k="phone" v="7693548631"/>
+  </node>
+  <node id="5315832355" lat="16.5413059" lon="80.5779073" version="3" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Gollapudi Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="5358264304" lat="16.3826388" lon="80.6590798" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="addr:housenumber" v="3-129"/>
+    <tag k="addr:street" v="srungarapuram road"/>
+    <tag k="description" v="panchayithi office"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-06:00"/>
+    <tag k="phone" v="9701368613"/>
+  </node>
+  <node id="5360141619" lat="16.3986431" lon="80.6256777" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-17:00"/>
+  </node>
+  <node id="5640977630" lat="16.4524592" lon="80.6104003" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="5640989743" lat="16.4628884" lon="80.6183426" version="3" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Kunchenpalli Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="5641006022" lat="16.4471456" lon="80.6157919" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="addr:street" v="Near Government school"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="6298474186" lat="16.4281089" lon="80.6577133" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="6298716485" lat="16.4281674" lon="80.6575029" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="addr:postcode" v="522303"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="6369568390" lat="16.8819790" lon="82.1462702" version="2" timestamp="2025-12-17T06:25:52Z" changeset="176034701" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+  </node>
+  <node id="7008001073" lat="15.8052948" lon="79.7668487" version="2" timestamp="2025-12-17T06:24:27Z" changeset="176034663" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="7938702297" lat="16.5315348" lon="81.4716375" version="2" timestamp="2025-12-17T06:25:40Z" changeset="176034690" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Kopalle Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="9731590272" lat="16.5427294" lon="79.9058581" version="2" timestamp="2025-12-17T06:24:44Z" changeset="176034668" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="9885984652" lat="16.4402992" lon="79.6199182" version="2" timestamp="2025-12-17T06:24:44Z" changeset="176034668" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="10079000649" lat="17.5105247" lon="82.3124385" version="2" timestamp="2025-12-17T06:26:03Z" changeset="176034708" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:00"/>
+  </node>
+  <node id="11009670052" lat="16.0232653" lon="80.4836226" version="2" timestamp="2025-12-17T06:25:00Z" changeset="176034678" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11272999679" lat="16.6340925" lon="81.7310024" version="3" timestamp="2025-12-17T06:25:40Z" changeset="176034690" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Satyavaram Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11373207704" lat="18.1406208" lon="83.3694687" version="2" timestamp="2025-12-17T06:26:29Z" changeset="176034720" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Dwarapudi Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11381990200" lat="14.8404668" lon="78.7871125" version="2" timestamp="2025-12-17T06:24:01Z" changeset="176034651" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Adireddipalli Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11383225046" lat="14.2919971" lon="79.5031706" version="2" timestamp="2025-12-17T06:24:01Z" changeset="176034651" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Akilavalasa Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11446386936" lat="12.7539732" lon="78.3828411" version="2" timestamp="2025-12-17T06:23:45Z" changeset="176034641" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Dasegownur Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11499958568" lat="17.9296048" lon="83.2050472" version="3" timestamp="2025-12-17T06:26:15Z" changeset="176034710" uid="2742073" user="arjunaraoc">
+    <tag k="check_date" v="2024-01-08"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="name:te" v="గ్రామ సచివాలయం"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11569887684" lat="16.9996428" lon="80.5194486" version="2" timestamp="2025-12-17T06:25:25Z" changeset="176034689" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11576154834" lat="16.4717738" lon="80.6158356" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="check_date" v="2024-02-01"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11690840935" lat="17.7325035" lon="83.0170920" version="2" timestamp="2025-12-17T06:26:15Z" changeset="176034710" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Marturu Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11694014036" lat="15.8269764" lon="80.1883543" version="2" timestamp="2025-12-17T06:24:27Z" changeset="176034663" uid="2742073" user="arjunaraoc">
+    <tag k="check_date" v="2024-03-05"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11795079453" lat="14.0724916" lon="79.5640979" version="2" timestamp="2025-12-17T06:24:01Z" changeset="176034651" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11891795420" lat="17.4150495" lon="81.8729355" version="2" timestamp="2025-12-17T06:26:03Z" changeset="176034708" uid="2742073" user="arjunaraoc">
+    <tag k="check_date" v="2024-05-08"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11891802891" lat="17.4351327" lon="82.0590331" version="2" timestamp="2025-12-17T06:26:03Z" changeset="176034708" uid="2742073" user="arjunaraoc">
+    <tag k="check_date" v="2024-05-08"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Gondolu Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11933338883" lat="18.6782638" lon="83.1646983" version="2" timestamp="2025-12-17T06:26:39Z" changeset="176034726" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Mavudi Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11944522936" lat="18.6198981" lon="83.4747368" version="2" timestamp="2025-12-17T06:26:39Z" changeset="176034726" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Barli Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11983652826" lat="12.7325974" lon="78.3764697" version="2" timestamp="2025-12-17T06:23:45Z" changeset="176034641" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Chandam Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="11985733649" lat="15.6891537" lon="79.2434922" version="2" timestamp="2025-12-17T06:24:27Z" changeset="176034663" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Seethanagulavaram Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12104409284" lat="18.1297934" lon="83.4802264" version="2" timestamp="2025-12-17T06:26:29Z" changeset="176034720" uid="2742073" user="arjunaraoc">
+    <tag k="addr:city" v="Saripalli"/>
+    <tag k="addr:district" v="Viziznagaram"/>
+    <tag k="addr:postcode" v="535218"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Saripalli Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12123881607" lat="16.1898188" lon="81.1076779" version="2" timestamp="2025-12-17T06:25:00Z" changeset="176034678" uid="2742073" user="arjunaraoc">
+    <tag k="addr:city" v="Sultannagaram Gollapalem"/>
+    <tag k="addr:district" v="krishna"/>
+    <tag k="addr:street" v="sn gollapalem"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Sultannagaram Gollapalem Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12123884837" lat="16.8662573" lon="81.6722345" version="2" timestamp="2025-12-17T06:25:40Z" changeset="176034690" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12174200070" lat="16.0645666" lon="80.9256645" version="2" timestamp="2025-12-17T06:25:00Z" changeset="176034678" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12484748001" lat="18.4985302" lon="84.0965897" version="2" timestamp="2025-12-17T06:26:49Z" changeset="176034731" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Regulapadu Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12625476029" lat="16.4816927" lon="80.5757654" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12799833877" lat="17.8607479" lon="83.1674630" version="2" timestamp="2025-12-17T06:26:15Z" changeset="176034710" uid="2742073" user="arjunaraoc">
+    <tag k="check_date" v="2025-04-30"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="name:te" v="గ్రామ పంచాయతీ కార్యాలయము"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12864714688" lat="17.7685538" lon="83.1168427" version="2" timestamp="2025-12-17T06:26:15Z" changeset="176034710" uid="2742073" user="arjunaraoc">
+    <tag k="check_date" v="2025-05-25"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12990048108" lat="15.3785358" lon="79.2736938" version="2" timestamp="2025-12-17T06:24:27Z" changeset="176034663" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12991958208" lat="16.5094022" lon="80.7199961" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="check_date" v="2025-07-10"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12993643373" lat="16.5082865" lon="80.7268238" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="check_date" v="2025-07-11"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12994193970" lat="16.6453645" lon="80.9674936" version="2" timestamp="2025-12-17T06:25:40Z" changeset="176034690" uid="2742073" user="arjunaraoc">
+    <tag k="check_date" v="2025-07-11"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="12995507622" lat="16.4862111" lon="80.6632698" version="2" timestamp="2025-12-17T06:25:11Z" changeset="176034681" uid="2742073" user="arjunaraoc">
+    <tag k="check_date" v="2025-07-12"/>
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13086218061" lat="16.8087763" lon="81.3653174" version="2" timestamp="2025-12-17T06:25:40Z" changeset="176034690" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13086218063" lat="16.8095590" lon="81.3678064" version="2" timestamp="2025-12-17T06:25:40Z" changeset="176034690" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13086218064" lat="16.8134337" lon="81.3659238" version="2" timestamp="2025-12-17T06:25:40Z" changeset="176034690" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13086312874" lat="16.5461217" lon="81.7640183" version="2" timestamp="2025-12-17T06:25:40Z" changeset="176034690" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13086358685" lat="16.9612143" lon="82.0471038" version="2" timestamp="2025-12-17T06:25:52Z" changeset="176034701" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam 1"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13182348565" lat="18.1208610" lon="83.4012862" version="2" timestamp="2025-12-17T06:26:29Z" changeset="176034720" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13253735571" lat="15.5216649" lon="77.3351412" version="2" timestamp="2025-12-17T06:24:12Z" changeset="176034653" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13260623356" lat="15.4795812" lon="77.3876461" version="2" timestamp="2025-12-17T06:24:12Z" changeset="176034653" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13260623357" lat="15.4792587" lon="77.3875175" version="2" timestamp="2025-12-17T06:24:12Z" changeset="176034653" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13260676406" lat="15.5531809" lon="77.4680163" version="2" timestamp="2025-12-17T06:24:12Z" changeset="176034653" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13261159780" lat="16.7796558" lon="81.2337890" version="2" timestamp="2025-12-17T06:25:40Z" changeset="176034690" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Grama Sachivalayam"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13310180856" lat="16.0687873" lon="80.1848450" version="1" timestamp="2025-11-17T04:01:58Z" changeset="174754280" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Pasumarru-1 Grama Sachivalayam"/>
+    <tag k="name:te" v="పసుమర్రు-1 గ్రామ సచివాలయం"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="13310180857" lat="16.0702000" lon="80.1829100" version="1" timestamp="2025-11-17T04:01:58Z" changeset="174754280" uid="2742073" user="arjunaraoc">
+    <tag k="government" v="administrative"/>
+    <tag k="name" v="Pasumarru-2 Grama Sachivalayam"/>
+    <tag k="name:te" v="పసుమర్రు-2 గ్రామ సచివాలయం"/>
+    <tag k="office" v="government"/>
+  </node>
+
+</osm>
