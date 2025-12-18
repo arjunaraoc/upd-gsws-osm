@@ -1,6 +1,6 @@
 # upd-gsws-osm
 
-Utilities for updating Grama sachivalayam, ward sachivalayam locations using osm files, secretariat lat long files
+Utilities for updating Grama sachivalayam, ward sachivalayam locations on OSM using  secretariat lat long files 
 and  Overpass Turbo, JOSM
 
 ## Description
