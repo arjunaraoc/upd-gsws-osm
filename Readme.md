@@ -23,6 +23,7 @@ In Andhra Pradesh,  village/ward secretariats were launched in 2019, to support 
 * cleanup-gsws-osm.ipynb:  updates name and ref information on offices already present on 2025-12-18
 * todo-gsws-osm.ipynb: removes data already updated before 2025-12-18
 * eval-pmgsy.ipynb: evaluates location accuracy of pmgsy against manually mapped data(only the hq unit or place unit with suffix -1 considered)
+* amenities-osm.ipynb: district and mapping type info of amenities meeting a pattern in name
 * add-new-gsws-osm.ipynb: (TBD)  adds new offices per each selected district, run only once per district.
 
 
